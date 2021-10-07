@@ -1,0 +1,12 @@
+#about {
+    display: flex;
+    flex-direction: row;
+}
+
+#about {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 50%; 
+    padding: 1rem;
+  }
